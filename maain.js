@@ -5,3 +5,5 @@ function salan(){
 }
 
 salan()
+
+console.log("Test" + great);
